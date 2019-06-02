@@ -1,0 +1,15 @@
+
+.github/
+node_modules/_*
+build/
+src/
+static/
+examples/
+packages/
+public/
+test/
+docs/
+dist-docs/
+.*
+config/
+index.html
